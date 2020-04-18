@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>exxeleron</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>qSharpCore</PackageId>
+    <Description>Interprocess communication between C# and kdb+</Description>
+    <Copyright>Copyright © exxeleron 2011-2015</Copyright>
+    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/efaruk/qSharp</PackageProjectUrl>
+    <PackageIcon>logo.png</PackageIcon>
+    <RepositoryUrl>https://github.com/efaruk/qSharp</RepositoryUrl>
+    <PackageTags>kdb+ q c# client driver</PackageTags>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <PackageReleaseNotes>Interprocess communication between C# and kdb+</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="logo.png" Pack="true" Visible="false" PackagePath="" />
+  </ItemGroup>
+
+</Project>
