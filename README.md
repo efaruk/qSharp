@@ -1,2 +1,8 @@
-Forked from https://github.com/exxeleron/qSharp
-I'll try to port it to .net core, If I can spare some time.
+# qSharpCore
+
+ Forked from https://github.com/exxeleron/qSharp and ported to netstandard2.0
+
+### Install: Using Nuget
+```powershell
+Install-Package qSharpCore
+```
